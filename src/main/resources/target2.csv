@@ -1,0 +1,7 @@
+"Invoice_Date","Invoice_Number","Product_Name","HSN","IGST_%","Quantity","Amount_Before_Tax","Amount_After_Tax","SGST","CGST","IGST","Total_Tax","Bill_To_State"
+"1-Oct-24","IW_INV/006-CN","Shape Up, Genius! - Unisex Tee - Black / XL","61101120","5.0","1","-465.71","-489.0","0.0","0.0","-23.29","-23.29","Haryana"
+"1-Oct-24","IW_INV/006-CN","Delivery Charges","996531","18.0","","-33.9","-40.0","0.0","0.0","-6.1","-6.1","Haryana"
+"1-Oct-24","IW_INV/006","Shape Up, Genius! - Unisex Tee - Black / XL","61101120","5.0","1","465.71","489.0","0.0","0.0","23.29","23.29","Haryana"
+"1-Oct-24","IW_INV/006","Delivery Charges","996531","18.0","","33.9","40.0","0.0","0.0","6.1","6.1","Haryana"
+"2-Oct-24","IW_INV/007","Flourish with Flair Crop Tee - White / S","61091000","5.0","1","316.19","332.0","0.0","0.0","15.81","15.81","Maharashtra"
+"2-Oct-24","IW_INV/007","Blossom & Bold Crop Tee - Black / S","61091000","5.0","1","316.19","332.0","0.0","0.0","15.81","15.81","Maharashtra"
